@@ -1,7 +1,7 @@
 <?php
 session_start();
 include('includes/config.php');
-if(isset($_POST['login']))
+if(isset($_POST['login'])) 
 {
 $uname=$_POST['username'];
 $password=md5($_POST['password']);
