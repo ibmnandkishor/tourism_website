@@ -25,7 +25,7 @@ include('includes/config.php');
 <script src="js/wow.min.js"></script>
 	<script>
 		 new WOW().init();
-	</script>
+	</script> 
  
 </head>
 <body>
