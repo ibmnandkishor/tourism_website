@@ -26,7 +26,7 @@ include('includes/config.php');
 	<script>
 		 new WOW().init();
 	</script>
-
+ 
 </head>
 <body>
 <script>
